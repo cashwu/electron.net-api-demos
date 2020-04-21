@@ -6,6 +6,7 @@ Use this app to see what you can do with Electron.NET and use the source code to
   
 This Demo-App based on the [Electron API Demos](https://github.com/electron/electron-api-demos)  
 
+### [黑大 - Electron.NET API 快速巡覽](https://blog.darkthread.net/blog/electron-api-brief)
 
 ---  
   
